@@ -1,0 +1,37 @@
+body{
+    background-image:       url('https://image.freepik.com/vetores-gratis/fundo-de-vaporwave-retro-grade-de-laser-cyberpunk-no-estilo-dos-anos-80-paisagem-futurista-abstrata_87408-125.jpg');
+    background-size: auto 100vh;
+    font-family: arial;
+    height:  100vh;
+  }
+  .menu{
+    background-color: purple; 
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:haver{
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+    }
+  
+  .site-subtitle{
+    text-alingn: center;
+    font-style: italic;
+  }
